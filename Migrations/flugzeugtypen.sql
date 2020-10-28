@@ -1,0 +1,3 @@
+INSERT INTO flugzeugtypen (modell, hersteller, flugstunden, hoechstgeschwindigkeit_kmh, erstflug, typische_sitzanzahl, maschinenname) VALUES ('A380', 'Airbus', 2654.1, 961, '2005-04-27', 868, 'Robinson Crusoe');
+INSERT INTO flugzeugtypen (modell, hersteller, flugstunden, hoechstgeschwindigkeit_kmh, erstflug, typische_sitzanzahl, maschinenname) VALUES ('787-8', 'Boeing', 1982.5, 945, '2009-12-15', 242, 'Herr der Fliegen');
+INSERT INTO flugzeugtypen (modell, hersteller, flugstunden, hoechstgeschwindigkeit_kmh, erstflug, typische_sitzanzahl, maschinenname) VALUES ('DC-10-30', 'McDonnelL Douglas', 26591.8, 960, '1970-08-29', 265, 'Geier Sturzflug');
