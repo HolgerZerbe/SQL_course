@@ -1,3 +1,5 @@
+USE seminarverwaltung;
+
 INSERT INTO seminare (id, titel, beschreibung, preis, kategorie)
 VALUES (1, 'Datenbanken & SQL', 'Nahezu alle modernen...', 975.00, 'Datenbanken');
 
