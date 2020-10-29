@@ -1,4 +1,4 @@
 USE filmverleih;
 
--- Achtung: Suche ist incase-sensitive!!!
-UPDATE filme SET spieldauer = 152 where titel = 'the dark knight'; 
+-- Achtung: Suche ist case-insensitive!!!
+UPDATE filme SET spieldauer = 152 WHERE titel = 'the dark knight'; 
